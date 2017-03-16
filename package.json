@@ -1,0 +1,14 @@
+{
+  "name": "react-learn_app",
+  "version": "1.0.0",
+  "description": "React learn",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alexei Kutyrev",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.2"
+  }
+}
